@@ -1,7 +1,7 @@
 /* CSS requirements:  - some form of responsive design which improves user experience, such as media queries.*/
 /*                    - at least 3 CSS selectors                                                             */
 /* The responsive design requirement of this project is met by using Bootstrap.                              */
-/* These are the three custom css rules required by the project. This stylesheet is to be used with the style sheet provided by Bootstrap */
+/* These are the (minimum: 3) custom css rules required by the project. This stylesheet is to be used with the style sheet provided by Bootstrap */
 
 h1 {
     color: rgb(255, 60, 0);
@@ -14,6 +14,7 @@ p {
 .yesNo {
     background-color: rgb(76, 219, 19);
 }
+
 .payment {
     background-color: rgb(212, 85, 127);
 }
