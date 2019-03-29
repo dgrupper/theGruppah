@@ -14,7 +14,7 @@
 // calculate mortgagepayment given loan amount, loan term, interest rate    
    function mortgagePayment (P, N, R) {
        var r = ((R/100)/12);
-       var payment = P*(r*((1+r)^N))/(((1+r)^N)-1);
+       var payment = P*(r*((1+r)**N))/(((1+r)**N)-1);
        return payment;
     }
 
