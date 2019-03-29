@@ -11,10 +11,10 @@ p {
     color: blue;
 }
 
-.yesNo {
-    background-color: rgb(76, 219, 19);
+.amount, .rate, .payment {
+    background-color: rgb(212, 85, 127);
 }
 
-.payment {
-    background-color: rgb(212, 85, 127);
+.term, .income, .yesNo {
+    background-color: rgb(76, 219, 19);
 }
